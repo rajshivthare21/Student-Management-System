@@ -16,7 +16,7 @@ This is a simple Student Management System project implemented using Java and My
 # Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/rahshivthare21/student-management-system.git
+git clone https://github.com/rajshivthare21/student-management-system.git
 ```
 2. Create a new MySQL database and import the student_data.sql file to 
 3. create the required table and sample data.
